@@ -13,14 +13,13 @@ export const ApiServices = {
 
 //=====================================================================================
 
-// const SECRET_KEY = "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";
 
 //==========================================================================
 // using Groq from "groq-sdk" . it is not safe as it required permission of "dangerouslyAllowBrowser: true"
 
 // import Groq from "groq-sdk";
 // const groq = new Groq({
-//   apiKey: "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",
+//   apiKey: "SECRET_KEY",
 //   dangerouslyAllowBrowser: true,
 // });
 // async function handleGroqApi({ inputValue }) {
